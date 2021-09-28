@@ -1,2 +1,3 @@
 # hello-world
-a repository
+
+Planning to use github to track hardware changes...
